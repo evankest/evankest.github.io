@@ -1,2 +1,2 @@
-# evankest.github.io
-My Personal Git Hub Page
+# Favorite-Animal
+Activity 6
